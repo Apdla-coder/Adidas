@@ -466,7 +466,7 @@ body {
 
 @media (max-width:768px) {
     .container {
-        width: 710px;
+        width: 95%;
     }
 
     .tools {
