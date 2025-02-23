@@ -466,7 +466,7 @@ body {
 
 @media (max-width:768px) {
     .container {
-        width: 320px;
+        width: 710px;
     }
 
     .tools {
@@ -486,7 +486,7 @@ body {
 
 @media (min-width:768px) {
     .container {
-        width: 750px;
+        width: 720px;
     }
 
     .tools {
